@@ -19,6 +19,29 @@ pre：指向后的指针.
 
 ![vuUVJn](https://raw.githubusercontent.com/lixiang7610/Machine-learning-Revision/main/img/202207021149956.png)
 
+leetcode 206:[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+Leetcode 160:[Insercion of 2 Link List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+Leetcode 21:[Merge Two](https://leetcode.com/problems/merge-two-sorted-lists/)
+Leetcode 86:[Partition List](https://leetcode.com/problems/partition-list/)
+Leetcode 142:[Linked List Cycle II and 141 I](https://leetcode.com/problems/linked-list-cycle-ii/)
+Leetcode 92:[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+#### Stack
+
+#### Queue
+
+Circular queue, double-ended queue, priority queue
+
+|          | Stack                                   | Queue                            |
+| -------- | --------------------------------------- | -------------------------------- |
+|          | LIFO                                    | FIFO                             |
+| Insert   | Push()                                  | Enqueue()                        |
+| Deletion | Pop()                                   | Dequeue()                        |
+|          | One point used for perfroming operation | 2 points uset for opreation      |
+| Full？   | Top == MAX-1                            | Frount == -1 or Front == rear +1 |
+| Empty？  | Top == -1                               | Rear == MAX-1                    |
+| Solve    | Recursing Quiz                          | Sequential Quiz                  |
+
 
 
 
