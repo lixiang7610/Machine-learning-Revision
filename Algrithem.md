@@ -19,7 +19,7 @@ pre：指向后的指针.
 
 ![vuUVJn](https://raw.githubusercontent.com/lixiang7610/Machine-learning-Revision/main/img/202207021149956.png)
 
-leetcode 206:[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+leetcode 206:[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (double point/recursion)
 
 Leetcode 160:[Insercion of 2 Link List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 
@@ -33,7 +33,17 @@ Leetcode 92:[Reverse Linked List II](https://leetcode.com/problems/reverse-linke
 
 #### Stack
 
+Leetcode 20:[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)(dic, stack = ['?'] 占一个位置)
 
+Leetcode 244:[Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+
+Leetcode 155:[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+Leetcode 946:[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+Leetcode 793:[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
+
+Leetcode 42:[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
 #### Queue
 
