@@ -20,13 +20,20 @@ pre：指向后的指针.
 ![vuUVJn](https://raw.githubusercontent.com/lixiang7610/Machine-learning-Revision/main/img/202207021149956.png)
 
 leetcode 206:[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
 Leetcode 160:[Insercion of 2 Link List](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
 Leetcode 21:[Merge Two](https://leetcode.com/problems/merge-two-sorted-lists/)
+
 Leetcode 86:[Partition List](https://leetcode.com/problems/partition-list/)
+
 Leetcode 142:[Linked List Cycle II and 141 I](https://leetcode.com/problems/linked-list-cycle-ii/)
+
 Leetcode 92:[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
 
 #### Stack
+
+
 
 #### Queue
 
